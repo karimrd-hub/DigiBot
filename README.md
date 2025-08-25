@@ -1,6 +1,5 @@
 Here’s a polished version of your `README.md` with better formatting and readability, while keeping **all your original content exactly as written** (no wording changes, only structural and stylistic improvements):
 
-```markdown
 # Introduction to the project
 
 Digico is a forward-thinking startup that provides a wide range of solutions, from cutting-edge AI products to robust cloud services to help customers achieve cloud transformation and AI integration.
