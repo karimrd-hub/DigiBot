@@ -10,7 +10,6 @@ Given the diversity of these offerings, we created **DigiBot** — an intelligen
 
 # Structure of the repository
 
-```
 
 /
 ├── Scraping\_Digico\_Website/
@@ -23,7 +22,6 @@ Given the diversity of these offerings, we created **DigiBot** — an intelligen
 ├── .env                          # environmental variables
 └── .gitignore
 
-```
 
 **(1)** : a text file that contains the scraped text data with the links extracted from each page + additional tags that help delimiting each page extracted info  
 
@@ -61,7 +59,6 @@ The pipeline has the following steps:
 
 The file **crawling_raw_output.txt** is of the following structure:
 
-```
 
 \=== PAGE: [https://digico.solutions/ai-assessment/](https://digico.solutions/ai-assessment/) ===
 \=== TEXT ===
@@ -70,9 +67,6 @@ Unlock ....
 
 \=== LINKS ===
 [https://digico.solutions/](https://digico.solutions/)
-....
-
-````
 
 - `=== TEXT ===` section contains the text extracted from each page  
 - `=== LINKS ===` section contains the links extracted from each page  
@@ -98,4 +92,3 @@ pip install -r requirements.txt
 
 Then open **Scraping\_Digico\_Website/scraping\_pipeline.ipynb** and run all the code cells.
 
-```
