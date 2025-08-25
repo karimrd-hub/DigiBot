@@ -16,7 +16,7 @@ Given the diversity of these offerings, we created **DigiBot** — an intelligen
 │   └── scraping\_pipeline.ipynb   # pipeline to scrape the website
 ├── requirements.txt
 ├── README.md
-├── .env                          # environmental variables
+├── .env.example                          # environmental variables
 └── .gitignore
 ```
 
@@ -85,6 +85,7 @@ So in **cleaned_text_content.txt** you will only find the text information extra
 python -m venv .venv
 ./.venv/Scripts/Activate.ps1
 pip install -r requirements.txt
+cp .env.example .env
 ````
 
 Then open **Scraping\_Digico\_Website/scraping\_pipeline.ipynb** and run all the code cells.
