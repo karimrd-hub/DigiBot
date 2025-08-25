@@ -9,7 +9,7 @@ Given the diversity of these offerings, we created **DigiBot** — an intelligen
 
 # Structure of the repository
 
-
+```markdown
 /
 ├── Scraping\_Digico\_Website/
 │   ├── scraped\_data/
@@ -20,7 +20,7 @@ Given the diversity of these offerings, we created **DigiBot** — an intelligen
 ├── README.md
 ├── .env                          # environmental variables
 └── .gitignore
-
+```
 
 **(1)** : a text file that contains the scraped text data with the links extracted from each page + additional tags that help delimiting each page extracted info  
 
