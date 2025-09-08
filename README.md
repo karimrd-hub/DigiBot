@@ -163,12 +163,18 @@ Host Elastic_IP_of_Public_EC2_Instance
 
 - create a google cloud vertex ai project 
 
-1- go to https://cloud.google.com/?hl=en \n
+1- go to https://cloud.google.com/?hl=en 
+
 2- Click on “console”
+
 3- create  new project
+
 4- after that you need to login to your project using the Google cloud’s CLI
+
 5- how to install Google cloud’s CLI : [Install the gcloud CLI  |  Google Cloud SDK Documentation](https://cloud.google.com/sdk/docs/install)
+
 6- then git init
+
 7- then gcloud auth application-default login
 
 
