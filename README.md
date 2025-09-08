@@ -161,7 +161,7 @@ Host Elastic_IP_of_Public_EC2_Instance
 ![alt text](./RAG_pipeline/images/image.png)
 
 
-- create a google cloud vertex ai project ? 
+- create a google cloud vertex ai project 
 
 -- go to https://cloud.google.com/?hl=en
 -- Click on “console”
