@@ -208,7 +208,8 @@ And enjoy :)
 
 Example of Opik Monitoring & evaluation library :
 
-<img width="1787" height="720" alt="image" src="https://github.com/user-attachments/assets/7ad3d3d2-cdd1-41a0-8377-37f0a6ac269e" />
+<img width="835" height="538" alt="image" src="https://github.com/user-attachments/assets/16ea7f95-2aaf-42b8-8bbb-08df0a0ace6d" /> <img width="835" height="552" alt="image" src="https://github.com/user-attachments/assets/0f9fa86c-8e87-4131-864e-416ad5d14d69" />
+
 
 
 
