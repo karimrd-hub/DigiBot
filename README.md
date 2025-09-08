@@ -130,13 +130,12 @@ This file :
 - Configure your aws credentials
 
 ```bash
-aws configure
+export AWS_ACCESS_KEY_ID="..."
+export AWS_SECRET_ACCESS_KEY="..."
+export AWS_SESSION_TOKEN="..."
+
 ````
-This will prompt you to enter :
-AWS_ACCESS_KEY_ID
-AWS_ACCESS_KEY_ID
-DEFAULT_REGION_NAME
-DEFAULT_OUTPUT_FORMAT
+
 
 - SSH into your private ec2 instance :
 
