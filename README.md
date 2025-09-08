@@ -207,6 +207,7 @@ python3.12 digibot.py
 And enjoy :)
 
 Example of Opik Monitoring & evaluation library :
+=================================================
 <img width="1787" height="720" alt="image" src="https://github.com/user-attachments/assets/7ad3d3d2-cdd1-41a0-8377-37f0a6ac269e" />
 
 
