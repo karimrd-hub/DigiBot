@@ -177,6 +177,7 @@ Host Elastic_IP_of_Public_EC2_Instance
 
 7- then gcloud auth application-default login
 
+- You will need to fill the OPIK_API_KEY with your own since we are using Opik to track our chatbot
 
 
 - Create a virtual environment 
