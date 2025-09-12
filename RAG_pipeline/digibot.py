@@ -241,9 +241,7 @@ def load_bedrock_models():
         claude_model = ChatBedrock(
             client=bedrock_client,
             model_id='anthropic.claude-3-5-sonnet-20240620-v1:0',
-            model_kwargs={"max_tokens": 1000, "temperature": 0.7, "top_p": 0.9},
-            aws_access_key_id=AWS_ACCESS_KEY_ID,
-            aws_secret_access_key=AWS_SECRET_ACCESS_KEY
+            model_kwargs={"max_tokens": 1000, "temperature": 0.7, "top_p": 0.9}
         )
         
         llama_model = ChatBedrock(
