@@ -134,7 +134,7 @@ This file :
     - we append the synonyms to the user's query & re-perform similarity search 
     - this allows us to return results for user's queries that contain key terms that aren't even avaialble in the dataset
 
-![alt text](./RAG_pipeline/images/Blank diagram.jpeg)
+![alt text](./RAG_pipeline/images/Architecture Diagram.jpeg)
 
 
 - Note : digibot.py and digibot_with_markdown.ipynb contain the exact same code but the difference is that I used the markdown feature of the .ipynb notebooks to explain what each seciton of the code does, but to run the chatbot in the terminal it is better to run the digibot.py file
