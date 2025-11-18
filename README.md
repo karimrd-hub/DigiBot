@@ -149,8 +149,11 @@ aws configure
 ````
 This will prompt you to enter :
 AWS_ACCESS_KEY_ID
+
 AWS_ACCESS_KEY_ID
+
 DEFAULT_REGION_NAME
+
 DEFAULT_OUTPUT_FORMAT
 
 - SSH into your private ec2 instance :
