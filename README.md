@@ -195,7 +195,7 @@ Host Elastic_IP_of_Public_EC2_Instance
 ```bash
 python3.12 -m venv .venv
 source ./.venv/bin/activate
-cd Digibot
+cd DigiBot
 pip install -r requirements.txt
 ````
 
