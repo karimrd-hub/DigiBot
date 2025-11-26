@@ -160,6 +160,7 @@ DEFAULT_OUTPUT_FORMAT
 
 I am using a well-know VPC architecture where we use an EC2 instance inside of the public subnet (bastion host) and another ec2 instance inside the private subnet (where our vector database is) so in order to make our work easier,  we need to ssh into the EC2 instance inside of the public subnet and then open an SSH tunnel into the EC2 instance inside of the private subnet. To do so : 
 
+```bash
 Host private_IP_private_EC2_Instance
   HostName private_IP_private_EC2_Instance
   IdentityFile key_pair_of_private_EC2_instance.pem
@@ -171,6 +172,7 @@ Host Elastic_IP_of_Public_EC2_Instance
   IdentityFile key_pair_of_public_EC2_instance.pem
   User remote_login_username_public
 
+```
 
 
 
